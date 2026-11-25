@@ -1,5 +1,7 @@
 # Códigos da tese — predição da positividade da urocultura (HC-UFMG, 2011–2024)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24538125.svg)](https://doi.org/10.5281/zenodo.24538125)
+
 Códigos de análise da tese de doutorado de **Daniel Henrique Bücker** (Programa de Pós-Graduação em Ciências Aplicadas à Saúde do Adulto, Faculdade de Medicina da UFMG; orientador: Prof. Leonardo de Souza Vasconcellos), sobre o perfil demográfico, o espectro microbiológico e o potencial do exame de urina rotina (EAS) e da bacterioscopia pelo Gram para prever a positividade da urocultura quantitativa.
 
 O aplicativo web PreviTU V6, que usa os modelos congelados gerados aqui, está em um repositório próprio: <https://github.com/danielbucker/previtu>.
@@ -46,6 +48,8 @@ O laboratório registra a flora como *escassa*, *moderada* ou *aumentada*. Nos n
 ## Como citar
 
 BÜCKER, D. H. *Perfil demográfico, espectro microbiológico e potencial preditivo dos testes de urina rotina e bacterioscopia nos resultados de uroculturas ambulatoriais e hospitalares de pacientes assistidos em serviço público de Minas Gerais*. Tese (Doutorado em Ciências Aplicadas à Saúde do Adulto) — Faculdade de Medicina, Universidade Federal de Minas Gerais, Belo Horizonte, 2026.
+
+DOI desta versão (Zenodo): [10.5281/zenodo.24538125](https://doi.org/10.5281/zenodo.24538125).
 
 ## Licença
 
