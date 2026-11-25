@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se usar este código, cite a tese e este repositório."
+title: "Códigos da tese: Perfil demográfico, espectro microbiológico e potencial preditivo dos testes de urina rotina e bacterioscopia nos resultados de uroculturas ambulatoriais e hospitalares de pacientes assistidos em serviço público de Minas Gerais"
+authors:
+  - family-names: "Bücker"
+    given-names: "Daniel Henrique"
+version: "1.0.0"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/danielbucker/tese-urocultura-ml-hcufmg"

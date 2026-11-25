@@ -1,0 +1,21 @@
+{
+  "creators": [
+    {
+      "name": "Bücker, Daniel Henrique",
+      "affiliation": "Universidade Federal de Minas Gerais"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "language": "por",
+  "keywords": [
+    "urocultura",
+    "infecção do trato urinário",
+    "aprendizado de máquina",
+    "urinálise",
+    "bacterioscopia pelo Gram",
+    "HC-UFMG"
+  ],
+  "title": "Códigos da tese: predição da positividade da urocultura a partir do EAS e da bacterioscopia pelo Gram (HC-UFMG, 2011–2024)",
+  "description": "Notebooks de análise da tese de doutorado de Daniel Henrique Bücker (PPGCASA, Faculdade de Medicina, UFMG, 2026): comparação de quatro paradigmas de aprendizado de máquina, escore linear e de pontos, exportação dos modelos do PreviTU V6 e validação externa. Inclui base sintética de 20.000 pedidos artificiais para teste; a base real de pacientes não é distribuída."
+}
