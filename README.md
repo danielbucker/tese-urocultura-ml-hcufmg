@@ -43,7 +43,7 @@ Com 20.000 linhas, o notebook 01 leva bem menos tempo que com a base real (cerca
 
 ## Nota sobre a escala da flora bacteriana
 
-O laboratório registra a flora como *escassa*, *moderada* ou *aumentada*. Nos notebooks 01 e 03, o termo "aumentada" não consta do dicionário `MAPA_CRUZES` e é convertido em ausente. Como o tratamento foi o mesmo no desenvolvimento, no teste temporal e no PreviTU, as métricas não são afetadas. O indicador de ausência da flora (`missingindicator_UROT__FLORA`) passa a codificar, na prática, **flora aumentada**. Os notebooks são publicados como executados para a tese, para preservar a correspondência com os modelos congelados. No notebook 02 (escore), a conversão foi corrigida na célula 2.1. Detalhes nas Seções 4.3, 5.3 e 5.7 da tese.
+O laboratório registra a flora como *escassa*, *moderada* ou *aumentada*. Nos notebooks 01 e 03, o termo "aumentada" não consta do dicionário `MAPA_CRUZES` e é convertido em ausente. Como o tratamento foi o mesmo no desenvolvimento, no teste temporal e no PreviTU, as métricas não são afetadas. O indicador de ausência da flora (`missingindicator_UROT__FLORA`) passa a codificar, na prática, **flora aumentada**. Os notebooks são publicados como executados para a tese, para preservar a correspondência com os modelos congelados. No notebook 02 (escore), a conversão foi corrigida diretamente no `MAPA_CRUZES` (célula 6) a partir da versão 1.0.1, que é exatamente a versão usada nos resultados finais da tese; na versão 1.0.0, a correção ficava numa célula posterior e não era aplicada. O retreino dos quatro paradigmas com a flora corrigida, relatado como análise de sensibilidade na Seção 5.3, deu AUROC praticamente idêntica. Detalhes nas Seções 4.3, 5.3 e 5.7 da tese.
 
 ## Como citar
 
